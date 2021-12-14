@@ -12,10 +12,11 @@ I live in great IT time when everything change so fast and the Internet takes a 
 
 ## Skills
   - HTML
-  - CSS
-  - JavaScript 
-  - GitHub
+  - CSS/SASS/BEM
+  - JavaScript
+  - Git/GitHub
   - Figma
+  - VS Code
 
 ## Experience
   - experience with a large amount of information, analysis
