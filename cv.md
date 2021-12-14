@@ -8,7 +8,7 @@
   - **My GitHub account:**  Nata012345
 
 ## About Me
-I live in great IT time when everything change so fast and the Internet takes a huge part of my live. I am really interested in how sites work, how they are created and ect. So I’ve made a decision to change my occupation as an accountant and be closer to these innovations and change my occupation, as a result of I started learning English and did some JS exercises. Now I am taking Front-end Course from RS School and after that I am going to find my first IT job. I like walking and cycling, playing board games with my children and travelling.
+I live in great IT time when everything change so fast and the Internet takes a huge part of my live. I am really interested in how sites work, how they are created and ect. So I’ve made a decision to change my occupation as an accountant and be closer to these innovations, as a result of I have started learning English and some JS exercises. Now I am taking Front-end Course from RS School and after that I am going to find my first IT job. I like travelling, walking and cycling, playing board games with my children.
 
 ## Skills
   - HTML
