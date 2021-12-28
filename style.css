@@ -16,7 +16,7 @@ body {
 .header__content {
   margin: auto;
   display: flex;
-  padding: 20px 20px 0 20px;
+  padding: 25px 20px 0 25px;
 }
 
 .content__right {
