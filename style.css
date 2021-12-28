@@ -20,7 +20,6 @@ body {
 }
 
 .content__right {
-  /*margin-top: 20px;*/
   margin: 20px auto;
   
 }
@@ -71,7 +70,6 @@ body {
 .title {
   color: #FF9900;
   text-transform: uppercase;
-
 }
 
 .about-me__text {
@@ -103,7 +101,6 @@ body {
 .ico-content {
   display: flex;
   align-items: center;
-  
 }
 
 .link-inline-flex {
@@ -115,7 +112,6 @@ body {
   width: 25px;
   height: 25px;
   margin-right: 10px;
-
 }
 
 .ico-email {
@@ -145,9 +141,9 @@ body {
 }
 
 .ico-github {
-  background-image: url(image/iconmonstr-github-1.svg);
-  width: 32px;
-  height: 32px;
+  background-image: url(image/Github-circle__CoreUI_Icons_v1.0.0_.svg);
+  width: 24px;
+  height: 24px;
   margin-right: 10px;
 }
 
@@ -156,7 +152,6 @@ body {
   width: 65px;
   height: 25px;
   background-repeat: none;
-  
 }
 
 .ico {
