@@ -103,6 +103,10 @@ body {
   align-items: center;
 }
 
+.ico-content__contact {
+  padding-bottom: 12px;
+}
+
 .link-inline-flex {
   display: inline-flex;
 }
