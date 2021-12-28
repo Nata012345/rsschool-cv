@@ -1,13 +1,165 @@
 body {
-  background-color: #e3ccbf;
+  background-color: #ffff;
+  margin: auto;
+  font-family: 'Cabin', sans-serif;
+  color: #2F281E;
+  font-size: 24px;
 }
 
 .wrapper {
-  width: 1200px;
+  max-width: 1200px;
+  margin: auto;
+  background-color: #FFEEE1;
+  box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.05)
 }
 
-.navigation {
-  text-decoration: none;
+.header__content {
+  margin: auto;
   display: flex;
-  justify-content: space-between;
+  padding: 20px 20px 0 20px;
+}
+
+.content__right {
+  /*margin-top: 20px;*/
+  margin: 20px auto;
+  
+}
+
+.nav {
+  margin: 0;
+  list-style: none;
+  display: flex;
+  text-decoration: none;
+  padding: 0;
+}
+
+.navigation__link {
+  padding: 0  0  0 30px;
+  
+}
+
+.link {
+  color: #2F281E;
+  text-decoration: none;
+}
+
+.link:hover {
+  color: #FF9900;
+  transition: all .6s;
+}
+
+.header__info {
+  text-align: center;
+  margin: auto;
+}
+
+.header__title {
+  font-style: normal;
+  font-weight: Bold;
+  font-size: 60px;
+  line-height: 120px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.header__text {
+  font-size: 40px;
+  text-align: center;
+  margin-top: 0;
+}
+
+.title {
+  color: #FF9900;
+  text-transform: uppercase;
+
+}
+
+.about-me__text {
+  line-height: 37px;
+}
+
+.skills__item, 
+.languages__item, 
+.education__item, 
+.experience__item {
+  line-height: 1.8;
+}
+
+.main__content {
+  margin: auto;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.layouts-2-column {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.aside {
+  width: 33%;
+}
+
+.ico-content {
+  display: flex;
+  align-items: center;
+  
+}
+
+.link-inline-flex {
+  display: inline-flex;
+}
+
+.ico-phone {
+  background-image: url(image/ico_phone.svg);
+  width: 25px;
+  height: 25px;
+  margin-right: 10px;
+
+}
+
+.ico-email {
+  background-image: url(image/ico_mail.svg);
+  width: 25px;
+  height: 25px;
+  margin-right: 10px;
+}
+
+.main-container {
+  width: 65%;
+  padding-left: 15px;
+}
+
+.footer__content {
+  margin: auto;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.footer__info {
+  font-size: 20px;
+  justify-content: space-around;
+  display: flex;
+  padding: 20px 0 20px;
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25)
+}
+
+.ico-github {
+  background-image: url(image/iconmonstr-github-1.svg);
+  width: 32px;
+  height: 32px;
+  margin-right: 10px;
+}
+
+.ico-rsschool {
+  background-image: url(image/rs_school_js.svg);
+  width: 65px;
+  height: 25px;
+  background-repeat: none;
+  
+}
+
+.ico {
+  display: inline-block;
+  transition: all .6s;
 }
